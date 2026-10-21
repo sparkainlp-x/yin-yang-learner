@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Yin-Yang Learner
+version: 0.1.0
+date-released: 2026-10-21
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x/yin-yang-learner
+abstract: >-
+  Two conjugate holographic membranes that crystallize by learning
+  from each other's extracted patterns across an asymmetric
+  predictive tic (yang reads yin's next-generation extraction).
+  A measured negative result: the tic shortens the
+  self-recreation horizon vs the symmetric baseline and the
+  single-membrane control on all seeds tested, because the
+  "predicted" state is a re-estimated state and the asymmetry
+  compounds estimation error.
+keywords:
+  - holographic-memory
+  - hebbian-learning
+  - self-recreation
+  - yin-yang
+  - negative-result
